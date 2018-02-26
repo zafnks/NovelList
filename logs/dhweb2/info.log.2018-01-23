@@ -1,0 +1,460 @@
+2018-01-23 15:15:04,775 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 15:15:05,097 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 15:15:05,106 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 15:15:05,171 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 15:15:05,174 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 15:15:05,179 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 15:15:05,184 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 15:15:05,186 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 15:15:05,187 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 15:15:05,246 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 15:22:32,473 ERROR [com.zafnks.run.Start] - <jdbc.properties文件未找到>
+2018-01-23 15:22:32,571 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 15:22:32,572 INFO [com.zafnks.run.Start] - <cron = null>
+2018-01-23 15:22:32,778 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 15:22:32,797 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 15:22:32,894 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 15:22:32,911 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 15:22:32,924 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 15:22:32,931 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 15:22:32,941 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 15:22:32,942 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 15:24:34,702 ERROR [com.zafnks.run.Start] - <config.properties文件未找到>
+2018-01-23 15:24:34,726 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 15:24:34,731 INFO [com.zafnks.run.Start] - <cron = null>
+2018-01-23 15:24:34,942 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 15:24:34,951 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 15:24:35,004 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 15:24:35,007 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 15:24:35,009 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 15:24:35,011 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 15:24:35,021 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 15:24:35,021 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 15:27:53,360 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 15:27:53,363 INFO [com.zafnks.run.Start] - <cron = 0 53 * * * ?>
+2018-01-23 15:27:53,631 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 15:27:53,690 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 15:27:53,797 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 15:27:53,802 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 15:27:53,807 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 15:27:53,817 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 15:27:53,817 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 15:27:53,818 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 15:27:53,945 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 15:59:35,878 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 16:00:15,758 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 16:01:34,145 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 16:03:33,646 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 16:05:31,224 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 16:07:06,218 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 16:27:47,117 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 16:27:47,133 INFO [com.zafnks.run.Start] - <cron = 0 53 * * * ?>
+2018-01-23 16:27:47,669 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 16:27:47,686 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 16:27:47,792 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 16:27:47,807 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 16:27:47,819 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 16:27:47,825 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 16:27:47,843 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 16:27:47,845 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 16:27:48,145 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 16:28:10,648 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 16:28:10,651 INFO [com.zafnks.run.Start] - <cron = 30 29 * * * ?>
+2018-01-23 16:28:10,917 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 16:28:10,954 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 16:28:11,041 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 16:28:11,069 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 16:28:11,095 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 16:28:11,129 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 16:28:11,130 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 16:28:11,196 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 16:28:11,307 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 16:28:49,678 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 16:28:49,697 INFO [com.zafnks.run.Start] - <cron = 0 29 * * * ?>
+2018-01-23 16:28:50,036 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 16:28:50,056 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 16:28:50,211 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 16:28:50,217 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 16:28:50,225 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 16:28:50,227 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 16:28:50,228 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 16:28:50,229 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 16:28:50,288 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 16:29:01,034 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 16:29:01,206 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第1页】>
+2018-01-23 16:29:03,216 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第2页】>
+2018-01-23 16:29:04,678 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第3页】>
+2018-01-23 16:29:06,080 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第4页】>
+2018-01-23 16:29:07,702 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第5页】>
+2018-01-23 16:29:09,278 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第6页】>
+2018-01-23 16:29:11,095 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第7页】>
+2018-01-23 16:29:12,919 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第8页】>
+2018-01-23 16:29:14,312 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第9页】>
+2018-01-23 16:29:15,520 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第10页】>
+2018-01-23 16:29:16,788 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第11页】>
+2018-01-23 16:29:18,380 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第12页】>
+2018-01-23 16:29:19,914 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/ 【第13页】>
+2018-01-23 16:31:18,181 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 16:31:18,201 INFO [com.zafnks.run.Start] - <cron = 30 31 * * * ?>
+2018-01-23 16:31:18,592 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 16:31:18,608 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 16:31:18,751 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 16:31:18,754 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 16:31:18,757 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 16:31:18,760 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 16:31:18,760 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 16:31:18,761 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 16:31:18,961 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 16:31:30,894 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 16:31:31,065 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第1页】>
+2018-01-23 16:31:32,734 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第2页】>
+2018-01-23 16:31:34,130 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第3页】>
+2018-01-23 16:31:35,431 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第4页】>
+2018-01-23 16:31:36,873 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第5页】>
+2018-01-23 16:31:38,050 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第6页】>
+2018-01-23 16:31:39,949 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第7页】>
+2018-01-23 16:31:42,333 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第8页】>
+2018-01-23 16:31:43,681 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第9页】>
+2018-01-23 16:31:45,258 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第10页】>
+2018-01-23 16:31:46,514 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第11页】>
+2018-01-23 16:31:47,815 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第12页】>
+2018-01-23 16:31:49,251 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第13页】>
+2018-01-23 16:31:50,513 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第14页】>
+2018-01-23 16:31:52,614 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第15页】>
+2018-01-23 16:31:54,207 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第16页】>
+2018-01-23 16:31:56,357 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第17页】>
+2018-01-23 16:31:57,690 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第18页】>
+2018-01-23 16:31:59,405 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第19页】>
+2018-01-23 16:32:00,965 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第20页】>
+2018-01-23 16:32:02,855 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第21页】>
+2018-01-23 16:32:04,472 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第22页】>
+2018-01-23 16:32:05,989 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第23页】>
+2018-01-23 16:32:07,624 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第24页】>
+2018-01-23 16:32:09,196 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第25页】>
+2018-01-23 16:32:10,814 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第26页】>
+2018-01-23 16:32:12,418 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第27页】>
+2018-01-23 16:32:14,483 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第28页】>
+2018-01-23 16:32:16,256 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第29页】>
+2018-01-23 16:32:17,992 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第30页】>
+2018-01-23 16:32:19,741 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第31页】>
+2018-01-23 16:32:21,450 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第32页】>
+2018-01-23 16:32:22,831 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第33页】>
+2018-01-23 16:32:24,699 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第34页】>
+2018-01-23 16:32:25,974 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第35页】>
+2018-01-23 16:32:27,442 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第36页】>
+2018-01-23 16:32:28,657 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第37页】>
+2018-01-23 16:32:30,166 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第38页】>
+2018-01-23 16:32:32,860 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第39页】>
+2018-01-23 16:32:37,277 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第40页】>
+2018-01-23 16:32:44,526 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第41页】>
+2018-01-23 16:32:46,376 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第42页】>
+2018-01-23 16:32:47,694 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第43页】>
+2018-01-23 16:32:48,942 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第44页】>
+2018-01-23 16:32:50,367 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第45页】>
+2018-01-23 16:32:51,667 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第46页】>
+2018-01-23 16:32:53,101 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第47页】>
+2018-01-23 16:32:54,359 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第48页】>
+2018-01-23 16:32:57,792 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第49页】>
+2018-01-23 16:32:59,710 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第50页】>
+2018-01-23 16:33:01,102 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第51页】>
+2018-01-23 16:33:02,460 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第52页】>
+2018-01-23 16:33:03,893 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第53页】>
+2018-01-23 16:33:05,242 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第54页】>
+2018-01-23 16:33:06,751 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第55页】>
+2018-01-23 16:33:08,443 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第56页】>
+2018-01-23 16:33:09,510 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第57页】>
+2018-01-23 16:33:10,702 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第58页】>
+2018-01-23 16:33:12,203 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第59页】>
+2018-01-23 16:33:13,371 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第60页】>
+2018-01-23 16:33:15,293 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第61页】>
+2018-01-23 16:33:16,493 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第62页】>
+2018-01-23 16:33:18,244 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第63页】>
+2018-01-23 16:33:19,494 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第64页】>
+2018-01-23 16:33:20,886 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第65页】>
+2018-01-23 16:33:22,045 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第66页】>
+2018-01-23 16:33:23,492 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第67页】>
+2018-01-23 16:33:24,772 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第68页】>
+2018-01-23 16:33:26,232 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第69页】>
+2018-01-23 16:33:27,429 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第70页】>
+2018-01-23 16:33:29,561 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第71页】>
+2018-01-23 16:33:31,421 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第72页】>
+2018-01-23 16:33:32,494 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第73页】>
+2018-01-23 16:33:33,694 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第74页】>
+2018-01-23 16:33:35,228 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第75页】>
+2018-01-23 16:33:36,579 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第76页】>
+2018-01-23 16:33:38,147 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第77页】>
+2018-01-23 16:33:39,929 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第78页】>
+2018-01-23 16:33:41,404 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第79页】>
+2018-01-23 16:33:42,806 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第80页】>
+2018-01-23 16:33:44,211 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第81页】>
+2018-01-23 16:33:45,762 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第82页】>
+2018-01-23 16:33:47,157 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第83页】>
+2018-01-23 16:33:48,738 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第84页】>
+2018-01-23 16:33:50,564 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第85页】>
+2018-01-23 16:33:52,082 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第86页】>
+2018-01-23 16:33:53,313 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第87页】>
+2018-01-23 16:33:54,538 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第88页】>
+2018-01-23 16:33:55,821 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第89页】>
+2018-01-23 16:33:57,039 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第90页】>
+2018-01-23 16:33:58,489 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第91页】>
+2018-01-23 16:33:59,638 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第92页】>
+2018-01-23 16:34:01,456 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第93页】>
+2018-01-23 16:34:02,677 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第94页】>
+2018-01-23 16:34:04,248 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第95页】>
+2018-01-23 16:34:05,293 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第96页】>
+2018-01-23 16:34:06,640 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第97页】>
+2018-01-23 16:34:07,722 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第98页】>
+2018-01-23 16:34:09,056 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第99页】>
+2018-01-23 16:34:10,131 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第100页】>
+2018-01-23 16:34:11,828 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第101页】>
+2018-01-23 16:34:13,214 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第102页】>
+2018-01-23 16:34:14,322 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第103页】>
+2018-01-23 16:34:15,808 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第104页】>
+2018-01-23 16:34:17,024 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第105页】>
+2018-01-23 16:34:18,408 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第106页】>
+2018-01-23 16:34:19,433 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第107页】>
+2018-01-23 16:34:20,635 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第108页】>
+2018-01-23 16:34:22,090 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第109页】>
+2018-01-23 16:34:23,074 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第110页】>
+2018-01-23 16:34:24,290 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第111页】>
+2018-01-23 16:34:25,416 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第112页】>
+2018-01-23 16:34:26,774 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第113页】>
+2018-01-23 16:34:28,132 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第114页】>
+2018-01-23 16:34:29,327 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第115页】>
+2018-01-23 16:34:30,358 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第116页】>
+2018-01-23 16:34:31,392 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第117页】>
+2018-01-23 16:34:32,899 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第118页】>
+2018-01-23 16:34:33,908 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第119页】>
+2018-01-23 16:34:35,032 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第120页】>
+2018-01-23 16:34:36,799 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第121页】>
+2018-01-23 16:34:38,000 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第122页】>
+2018-01-23 16:34:39,399 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第123页】>
+2018-01-23 16:34:40,708 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第124页】>
+2018-01-23 16:34:41,878 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【玄幻】 【第125页】>
+2018-01-23 16:34:42,182 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第1页】>
+2018-01-23 16:34:44,287 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第2页】>
+2018-01-23 16:34:45,746 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第3页】>
+2018-01-23 16:34:47,921 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第4页】>
+2018-01-23 16:34:49,837 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第5页】>
+2018-01-23 16:34:51,546 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第6页】>
+2018-01-23 16:34:54,730 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第7页】>
+2018-01-23 16:34:56,563 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第8页】>
+2018-01-23 16:34:58,814 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第9页】>
+2018-01-23 16:35:02,560 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第10页】>
+2018-01-23 16:35:07,230 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第11页】>
+2018-01-23 16:35:09,222 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第12页】>
+2018-01-23 16:35:11,240 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第13页】>
+2018-01-23 16:35:14,465 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第14页】>
+2018-01-23 16:35:17,823 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第15页】>
+2018-01-23 16:35:19,814 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第16页】>
+2018-01-23 16:35:22,153 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第17页】>
+2018-01-23 16:35:24,340 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第18页】>
+2018-01-23 16:35:27,457 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第19页】>
+2018-01-23 16:35:29,707 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第20页】>
+2018-01-23 16:35:31,883 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第21页】>
+2018-01-23 16:35:34,508 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第22页】>
+2018-01-23 16:35:36,824 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第23页】>
+2018-01-23 16:35:39,708 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第24页】>
+2018-01-23 16:35:42,217 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第25页】>
+2018-01-23 16:35:44,692 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第26页】>
+2018-01-23 16:35:46,991 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第27页】>
+2018-01-23 16:35:50,592 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第28页】>
+2018-01-23 16:35:52,967 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第29页】>
+2018-01-23 16:35:55,401 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第30页】>
+2018-01-23 16:35:57,725 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第31页】>
+2018-01-23 16:36:00,934 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第32页】>
+2018-01-23 16:36:03,751 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第33页】>
+2018-01-23 16:36:07,135 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第34页】>
+2018-01-23 16:36:11,319 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第35页】>
+2018-01-23 16:36:13,769 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第36页】>
+2018-01-23 16:36:16,535 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第37页】>
+2018-01-23 16:36:19,719 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第38页】>
+2018-01-23 16:36:22,619 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第39页】>
+2018-01-23 16:36:24,919 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第40页】>
+2018-01-23 16:36:27,211 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第41页】>
+2018-01-23 16:36:29,923 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第42页】>
+2018-01-23 16:36:32,512 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第43页】>
+2018-01-23 16:36:35,020 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第44页】>
+2018-01-23 16:36:37,137 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第45页】>
+2018-01-23 16:36:41,182 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第46页】>
+2018-01-23 16:36:45,125 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第47页】>
+2018-01-23 16:36:48,371 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第48页】>
+2018-01-23 16:36:51,976 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第49页】>
+2018-01-23 16:36:56,027 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第50页】>
+2018-01-23 16:36:59,180 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第51页】>
+2018-01-23 16:37:02,264 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第52页】>
+2018-01-23 16:37:05,910 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第53页】>
+2018-01-23 16:37:09,251 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第54页】>
+2018-01-23 16:37:12,114 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第55页】>
+2018-01-23 16:37:15,969 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第56页】>
+2018-01-23 16:37:20,106 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第57页】>
+2018-01-23 16:37:23,591 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第58页】>
+2018-01-23 16:37:28,007 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第59页】>
+2018-01-23 16:37:30,972 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第60页】>
+2018-01-23 16:37:35,457 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第61页】>
+2018-01-23 16:37:39,033 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第62页】>
+2018-01-23 16:37:44,963 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第63页】>
+2018-01-23 16:37:50,771 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第64页】>
+2018-01-23 16:37:53,134 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第65页】>
+2018-01-23 16:37:55,443 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第66页】>
+2018-01-23 16:37:57,417 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第67页】>
+2018-01-23 16:38:00,702 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第68页】>
+2018-01-23 16:38:03,842 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第69页】>
+2018-01-23 16:38:05,891 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第70页】>
+2018-01-23 16:38:09,010 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第71页】>
+2018-01-23 16:38:11,460 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第72页】>
+2018-01-23 16:38:13,294 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【修真】 【第73页】>
+2018-01-23 16:38:14,987 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【都市】 【第1页】>
+2018-01-23 16:38:18,037 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【都市】 【第2页】>
+2018-01-23 16:38:21,538 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=http://www.uctxt.com/【都市】 【第3页】>
+2018-01-23 16:49:33,640 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 16:49:33,644 INFO [com.zafnks.run.Start] - <cron = 30 31 * * * ?>
+2018-01-23 16:49:33,889 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 16:49:33,899 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 16:49:33,940 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 16:49:33,949 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 16:49:33,955 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 16:49:33,959 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 16:49:33,959 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 16:49:33,960 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 16:49:34,013 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 16:53:02,360 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 16:53:02,373 INFO [com.zafnks.run.Start] - <cron = 30 31 * * * ?>
+2018-01-23 16:53:02,764 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 16:53:02,794 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 16:53:02,943 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 16:53:02,946 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 16:53:02,950 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 16:53:02,954 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 16:53:02,954 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 16:53:02,955 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 16:53:03,076 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 17:08:31,185 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 17:08:31,193 INFO [com.zafnks.run.Start] - <cron = 30 08 * * * ?>
+2018-01-23 17:08:31,507 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 17:08:31,548 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 17:08:31,664 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 17:08:31,668 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 17:08:31,678 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 17:08:31,684 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 17:08:31,706 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 17:08:31,709 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 17:08:31,825 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 17:08:46,772 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 17:08:46,786 INFO [com.zafnks.run.Start] - <cron = 50 08 * * * ?>
+2018-01-23 17:08:47,238 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 17:08:47,257 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 17:08:47,369 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 17:08:47,372 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 17:08:47,375 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 17:08:47,389 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 17:08:47,390 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 17:08:47,391 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 17:08:47,478 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 17:08:55,196 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 17:08:55,767 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=https://www.88dushu.com/【玄幻】 【第1页】>
+2018-01-23 17:08:59,932 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=https://www.88dushu.com/【玄幻】 【第2页】>
+2018-01-23 17:13:11,504 INFO [com.zafnks.run.Start] - <启动目录爬虫服务>
+2018-01-23 17:13:11,506 INFO [com.zafnks.run.Start] - <cron = 30 13 * * * ?>
+2018-01-23 17:13:11,718 INFO [org.quartz.impl.StdSchedulerFactory] - <Using default implementation for ThreadExecutor>
+2018-01-23 17:13:11,756 INFO [org.quartz.simpl.SimpleThreadPool] - <Job execution threads will use class loader of thread: main>
+2018-01-23 17:13:11,872 INFO [org.quartz.core.SchedulerSignalerImpl] - <Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl>
+2018-01-23 17:13:11,874 INFO [org.quartz.core.QuartzScheduler] - <Quartz Scheduler v.2.2.1 created.>
+2018-01-23 17:13:11,877 INFO [org.quartz.simpl.RAMJobStore] - <RAMJobStore initialized.>
+2018-01-23 17:13:11,878 INFO [org.quartz.core.QuartzScheduler] - <Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+>
+2018-01-23 17:13:11,879 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'>
+2018-01-23 17:13:11,879 INFO [org.quartz.impl.StdSchedulerFactory] - <Quartz scheduler version: 2.2.1>
+2018-01-23 17:13:11,964 INFO [org.quartz.core.QuartzScheduler] - <Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.>
+2018-01-23 17:13:31,076 INFO [com.alibaba.druid.pool.DruidDataSource] - <{dataSource-1} inited>
+2018-01-23 17:13:31,165 INFO [com.zafnks.web.AbstractCatalog] - <rootURL=https://www.88dushu.com/【玄幻】 【第1页】>

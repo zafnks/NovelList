@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CatalogService>
+	<!-- 88读书网 -->
+    <service class="com.zafnks.web.bbdushu.BbDuShuCatalog" type="玄幻" baseUrl="https://www.88dushu.com/sort1/1/"></service>
+	<service class="com.zafnks.web.bbdushu.BbDuShuCatalog" type="修真" baseUrl="https://www.88dushu.com/sort2/1/"></service>
+	<service class="com.zafnks.web.bbdushu.BbDuShuCatalog" type="都市" baseUrl="https://www.88dushu.com/sort3/1/"></service>
+	<service class="com.zafnks.web.bbdushu.BbDuShuCatalog" type="历史" baseUrl="https://www.88dushu.com/sort4/1/"></service>
+	<service class="com.zafnks.web.bbdushu.BbDuShuCatalog" type="科幻" baseUrl="https://www.88dushu.com/sort5/1/"></service>
+	<service class="com.zafnks.web.bbdushu.BbDuShuCatalog" type="网游" baseUrl="https://www.88dushu.com/sort6/1/"></service>
+	<service class="com.zafnks.web.bbdushu.BbDuShuCatalog" type="科幻" baseUrl="https://www.88dushu.com/sort7/1/"></service>
+	<service class="com.zafnks.web.bbdushu.BbDuShuCatalog" type="其他" baseUrl="https://www.88dushu.com/sort8/1/"></service>
+	<service class="com.zafnks.web.bbdushu.BbDuShuCatalog" type="其他" baseUrl="https://www.88dushu.com/sort9/1/"></service>
+	<!-- 妙笔阁 -->
+	<service class="com.zafnks.web.miaobige.MiaoBiGeCatalog" type="玄幻" baseUrl="https://www.miaobige.com/xuanhuan/1/"></service>
+	<service class="com.zafnks.web.miaobige.MiaoBiGeCatalog" type="修真" baseUrl="https://www.miaobige.com/xianxia/1/"></service>
+	<service class="com.zafnks.web.miaobige.MiaoBiGeCatalog" type="都市" baseUrl="https://www.miaobige.com/dushi/1/"></service>
+	<service class="com.zafnks.web.miaobige.MiaoBiGeCatalog" type="历史" baseUrl="https://www.miaobige.com/lishi/1/"></service>
+	<service class="com.zafnks.web.miaobige.MiaoBiGeCatalog" type="网游" baseUrl="https://www.miaobige.com/youxi/1/"></service>
+	<service class="com.zafnks.web.miaobige.MiaoBiGeCatalog" type="科幻" baseUrl="https://www.miaobige.com/kehuan/1/"></service>
+	<service class="com.zafnks.web.miaobige.MiaoBiGeCatalog" type="其他" baseUrl="https://www.miaobige.com/tongren/1/"></service>
+	<!-- UC书盟 -->
+	<service class="com.zafnks.web.uctxt.UcTxtCatalog" type="玄幻" baseUrl="http://www.uctxt.com/index/type-1-1"></service>
+    <service class="com.zafnks.web.uctxt.UcTxtCatalog" type="修真" baseUrl="http://www.uctxt.com/index/type-2-1"></service>
+    <service class="com.zafnks.web.uctxt.UcTxtCatalog" type="都市" baseUrl="http://www.uctxt.com/index/type-3-1"></service>
+    <service class="com.zafnks.web.uctxt.UcTxtCatalog" type="历史" baseUrl="http://www.uctxt.com/index/type-4-1"></service>
+    <service class="com.zafnks.web.uctxt.UcTxtCatalog" type="网游" baseUrl="http://www.uctxt.com/index/type-5-1"></service>
+    <service class="com.zafnks.web.uctxt.UcTxtCatalog" type="科幻" baseUrl="http://www.uctxt.com/index/type-6-1"></service>
+    <service class="com.zafnks.web.uctxt.UcTxtCatalog" type="其他" baseUrl="http://www.uctxt.com/index/type-7-1"></service>
+</CatalogService>
